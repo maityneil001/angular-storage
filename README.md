@@ -9,7 +9,7 @@ A Storage done right for AngularJS.
 * If **you save a `Number`, you get a `Number`**, not a String
 * Uses a **caching system** so that if you already have a value, it won't get it from the store again.
 
-## Installing it
+## ###Installing it
 
 You have several options:
 
